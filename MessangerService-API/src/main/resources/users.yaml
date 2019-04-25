@@ -1,0 +1,17 @@
+# User Details
+
+users:
+  -
+    id: 1
+    name: Leanne Graham
+    username: leanneGraham
+    email: ""
+    phone: ""
+    website: ""
+  -
+    id: 2
+    name: Ervin Howell
+    username: ervinHowell
+    email: ""
+    phone: ""
+    website: ""
